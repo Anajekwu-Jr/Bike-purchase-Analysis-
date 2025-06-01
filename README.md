@@ -45,5 +45,5 @@ This analysis demonstrates how demographic factors like education, marital statu
 
 ---
 
-🔗 *Project by [Your Name]*  
+🔗 *Project by Chidera Anajekwu*  
 📧 *For feedback or collaboration, connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile)*
